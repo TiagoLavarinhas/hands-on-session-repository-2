@@ -1,1 +1,1 @@
-This is an hands-on session final
+This is an hands-on session
